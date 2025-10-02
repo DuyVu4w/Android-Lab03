@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App Bai 4</string>
+    <string name="username">edward_lary</string>
+    <string name="job">Job</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="home_page">www.example.com</string>
+    <string name="save">SAVE</string>
+    <string name="email">email@example.com</string>
+</resources>
